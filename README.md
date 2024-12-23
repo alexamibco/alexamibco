@@ -21,7 +21,7 @@ What sets me apart is my adaptability and strong soft skills, including leadersh
 
 [![ExploryQ](https://res.cloudinary.com/dutgqbk6b/image/upload/v1733244751/Captura_de_pantalla_2024-12-03_114448_jhww9u.png)](https://app-to-find-events.vercel.app/)
 
-[![Frontend Mentor](https://camo.githubusercontent.com/4baa988ea66778f288650492a114f2a114c147c1673952d51de30bb817300779/68747470733a2f2f746865636f646562797465732e636f6d2f77702d636f6e74656e742f77656270632d70617373746872752e7068703f7372633d687474703a2f2f746865636f646562797465732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032332f30322f66726f6e74656e642d6d656e746f722d7265766965772e706e67266e6f63616368653d31)](https://www.frontendmentor.io/profile/alexamibco)
+[![Frontend Mentor](https://res.cloudinary.com/dutgqbk6b/image/upload/c_thumb,w_200,g_face/v1734974426/fm_ycpccq.png)](https://www.frontendmentor.io/profile/alexamibco)
 
 <!---
 alexamibco/alexamibco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
